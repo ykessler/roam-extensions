@@ -1,2 +1,2 @@
-# roam-extensions
-Rando extensions for Roam
+# roam-hacks
+Rando hacks and extensions for Roam
